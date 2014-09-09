@@ -1,0 +1,4 @@
+---
+name: Hashes
+slug: hashes
+depends-on: arrays
