@@ -1,7 +1,7 @@
 ---
-title: Guess the Number
-slug: guess-the-number
+title: Hangman
 description: A command-line guessing game.
-difficulty: 1
+topic: arrays
+difficulty: 2
 ignore:
 - "README.md"

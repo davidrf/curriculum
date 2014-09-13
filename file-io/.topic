@@ -1,4 +1,0 @@
----
-name: File IO
-slug: file-io
-depends-on: hashes
