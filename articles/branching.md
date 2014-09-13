@@ -1,6 +1,7 @@
 ---
 title: Branching & Conditionals
 topic: control-flow
+description: Introduces conditional expressions and logical branching (if/else statements) in Ruby, allowing programs to make decisions about what code to run.
 ---
 
 This article introduces conditional expressions and logical branching in Ruby. This is the building block of writing intelligent programs.
